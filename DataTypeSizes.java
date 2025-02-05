@@ -1,3 +1,4 @@
+//this program return the sizes of various data types in java
 public class DataTypeSizes {
     public static void main(String[] args) {
         System.out.println("Size of various data types in Java:");
