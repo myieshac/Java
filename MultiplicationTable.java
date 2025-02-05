@@ -1,3 +1,4 @@
+//this program returns the multiplication table of any number 
 import java.util.Scanner;
 
 public class MultiplicationTable {
