@@ -1,4 +1,5 @@
 //This program demonstrates data type conversion in java
+
 public class TypeConversion {
     public static void main(String[] args) {
         int intValue = 100;
