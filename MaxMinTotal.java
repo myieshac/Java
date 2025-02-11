@@ -1,3 +1,5 @@
+//THIS PROGRAM RETURNS THE MAXIMUM, MINIMUM AND TOTAL OF THREE NUMBERS.
+
 import java.util.Scanner;
 public class MaxMinTotal {
     public static void main(String[] args) {
