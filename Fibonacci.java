@@ -1,3 +1,4 @@
+//THIS PROGRAM PRINTS THE FIBONACCI SEQUENCE TILL 'N'
 import java.util.Scanner;
 
 public class Fibonacci {
