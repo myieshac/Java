@@ -1,3 +1,4 @@
+//THIS JAVA PROGRAM CHECKS IF A NUMBER IS AN ARMSTRONG NUMBER.
 import java.util.Scanner;
 
 public class ArmstrongCheck {
