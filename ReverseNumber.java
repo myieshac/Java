@@ -1,3 +1,4 @@
+//This program returns the reverse of a given number
 import java.util.Scanner;
 
 public class ReverseNumber {
