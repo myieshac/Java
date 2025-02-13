@@ -1,3 +1,4 @@
+//This program returns an asteric pyramid for a given number of rows
 import java.util.Scanner;
 
 public class StarPattern {
