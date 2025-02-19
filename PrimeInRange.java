@@ -1,3 +1,4 @@
+//This program returns prime number occuring in the entered range.
 import java.util.Scanner;
 
 public class PrimeInRange {
