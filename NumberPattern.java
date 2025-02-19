@@ -1,3 +1,4 @@
+//This program returns a pyramid number pattern for 'n' rows.
 import java.util.Scanner;
 
 class NumberPattern {
