@@ -1,3 +1,4 @@
+//This program shows the concepts of constructors.
 import java.util.Scanner;
 
 class Eligible {
