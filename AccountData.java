@@ -1,3 +1,4 @@
+//This program shows the concepts of constructors.
 class Account {
     private String accountNumber;
     private double balance;
