@@ -1,3 +1,4 @@
+//this program uses inheritance to display the title, author and price of a library book.
 import java.util.Scanner;
 
 class LibraryBook {
