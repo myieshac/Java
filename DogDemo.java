@@ -1,3 +1,4 @@
+//this program showcases concepts of inheritance to display a dog's name and color.
 class Dog {
     private String name;
     private String color;
